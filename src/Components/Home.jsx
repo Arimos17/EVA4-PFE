@@ -1,0 +1,7 @@
+function Home(){
+  return(<div className="container">
+      <h1>Home</h1>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur laboriosam doloremque earum iste atque ea corrupti dolor repellendus blanditiis, recusandae autem architecto officia sequi illo, necessitatibus officiis, aperiam rerum repellat.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur laboriosam doloremque earum iste atque ea corrupti dolor repellendus blanditiis, recusandae autem architecto officia sequi illo, necessitatibus officiis, aperiam rerum repellat.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur laboriosam doloremque earum iste atque ea corrupti dolor repellendus blanditiis, recusandae autem architecto officia sequi illo, necessitatibus officiis, aperiam rerum repellat.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur laboriosam doloremque earum iste atque ea corrupti dolor repellendus blanditiis, recusandae autem architecto officia sequi illo, necessitatibus officiis, aperiam rerum repellat.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur laboriosam doloremque earum iste atque ea corrupti dolor repellendus blanditiis, recusandae autem architecto officia sequi illo, necessitatibus officiis, aperiam rerum repellat.
+    </div>);
+}
+export default Home;
